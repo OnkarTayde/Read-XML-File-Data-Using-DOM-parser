@@ -67,7 +67,8 @@ public class ReadXmlFileDataUsingDomParserApplication {
 				System.out.println("Age :- "+age);
 				System.out.println("Salary :- "+salary);
 				System.out.println("done");
-
+				System.out.println("done...... 2");
+				System.out.println("done...... 3");
 			}
 		}
 
